@@ -12,25 +12,4 @@
 
 * BSc in Software Engineering at Federal University of Ceará (2011-2015);
 * MSc in Computer Science at Federal University of Pernambuco (2016-2018);
-* PhD Candidate in Computer Science at Federal University of Pernambuco (2018-present).
-
-
-### Technologies and Tools
-
-<div class="row">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="20" height="20"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="20" height="20"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/travis/travis-plain.svg" alt="travis" width="20" height="20"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="20" height="20"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="intellij" width="20" height="20"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="20" height="20"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/groovy/groovy-original.svg" alt="groovy" width="20" height="20"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="20" height="20"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="20" height="20"/>  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="20" height="20"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="20" height="20"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgressql" width="20" height="20"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/>
-</div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leusonmario&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+* PhD in Computer Science at Federal University of Pernambuco (2018-2022).
